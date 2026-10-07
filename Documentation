@@ -1,0 +1,6 @@
+Document            	Description
+
+ARCHITECTURE.md	     Model architectures & design rationale
+DATASET.md	         Dataset details and preprocessing
+TRAINING.md          Training setup and hyperparameters
+EVALUATION.md	       Metrics and results analysis
