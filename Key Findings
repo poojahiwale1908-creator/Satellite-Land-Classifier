@@ -1,0 +1,9 @@
+CNNs and hybrid models both reach near-perfect accuracy on this dataset
+
+Keras offers the fastest path to a working model; PyTorch gives finer control and clearer debugging
+
+Transfer learning (pretrained CNN backbone) is critical for ViT convergence on small datasets
+
+ROC-AUC of 1.0 across all models indicates clean class separability
+
+ViT-Small (4 heads, 256 dim, 4 layers) trains 1.7× faster than ViT-Base with comparable results
