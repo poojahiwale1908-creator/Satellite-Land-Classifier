@@ -1,14 +1,7 @@
 # Satellite-Land-Classifier
 # 🛰️ Satellite Land Classifier
 
-**Deep learning pipeline for classifying agricultural vs. non-agricultural land from satellite imagery using CNNs and Vision Transformers.**
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.11-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21-FF6F00?logo=tensorflow&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
----
 
 ## 📖 About
 
