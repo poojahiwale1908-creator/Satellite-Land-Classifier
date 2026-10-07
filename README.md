@@ -58,20 +58,6 @@ Organized in `ImageFolder`-compatible structure for direct use with `torchvision
 | Keras CNN-ViT | 0.500 | 0.000 | 0.000 | 0.000 | 1.000 |
 | PyTorch CNN-ViT | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 |
 
-### Sample Images
-![Sample Images](images/sample_images.png)
-
-### Training Curves
-![Keras Training](images/keras_training.png)
-![PyTorch Training](images/pytorch_training.png)
-
-### ROC Curves
-![ROC Curves](images/roc_curves.png)
-
-### Confusion Matrices
-![Confusion Matrices](images/confusion_matrices.png)
-
----
 
 ## 🚀 Getting Started
 
